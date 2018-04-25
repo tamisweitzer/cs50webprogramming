@@ -2,4 +2,4 @@ git add -A 			adds all changes to the staging area
 git commit -m '' 	commits changes locally. i.e. Git makes a snapshot of your current code 
 git push			pushes all changes to Github.com for storage
 git pull 			pull any changes from Github.com
-ß
+git status			gives you the status of your local code
