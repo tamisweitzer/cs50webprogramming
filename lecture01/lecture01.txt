@@ -1,0 +1,7 @@
+Lecture 1
+
+ git 
+	- master branch - the default branch
+	- HEAD refers to where you currently are in the repo, i.e. "You are here"
+	- checkout means change to some other branch. e.g. checkout branch2 means start working on branch2 instead of whatever branch you were previously on
+	- 

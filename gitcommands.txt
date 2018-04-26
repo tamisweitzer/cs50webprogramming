@@ -3,3 +3,8 @@ git commit -m '' 	commits changes locally. i.e. Git makes a snapshot of your cur
 git push			pushes all changes to Github.com for storage
 git pull 			pull any changes from Github.com
 git status			gives you the status of your local code
+git log				shows a history of all of your commits
+git reset			if you want to go back to a previous version of your repo:
+						git reset --hard <commitNumber>  - goes back to that commit version; this is a local change
+						git reset --hard origin/master 	- goes back to the origin/master version that was previously on Github.com; this is a local change
+git reflog			list of all of the changes git has made
